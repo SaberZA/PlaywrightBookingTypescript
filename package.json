@@ -1,0 +1,17 @@
+{
+  "name": "mark-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.19.2"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-string": "^4.1.0"
+  }
+}
